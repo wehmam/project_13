@@ -1,0 +1,78 @@
+.header{
+    background-image: url(img/gbr1.png);
+    background-repeat: no-repeat;
+    background-size: 1650px;
+    background-position: top;
+}
+
+.row img{
+    height: 70%;
+    width: 60%;
+    margin-top: 15%;
+    padding-right: 10px;
+}
+.content{
+    margin-top: 30%;
+    color: white;
+}
+.container-fluid{
+    padding-left: 235px;
+}
+.collapse{
+    padding-left: 835px;
+}
+.nav-link{
+    color: white;
+}
+.navbar img{
+    width: 105px;
+    height: 49px;
+    padding-left: 20px;
+}
+.container{
+    margin-top: 10%;
+}
+#container{
+    margin-top: 7%;
+    background-color: gray;
+}
+#container img{
+    max-width: 89%;
+    padding-right: 0px;
+    padding-left: 96px;
+}
+#container h1{
+    text-align: center; 
+}
+#container p{
+    text-align: center; 
+}
+.email{
+    margin-top: 3%;
+    width: 370px;
+}
+.email .mycustom input{
+    padding-right: 123px;
+    border-radius: 50px;
+    height: 54px;
+}
+.input-group-prepend{
+    margin-right: 50px;
+    border-radius: 70px;
+}
+.container .row h3{
+    margin-top: 30%;
+}
+.container .row img{
+   max-width: 100%;
+}
+.row .btn{
+    border-radius: 50px;
+    padding: 20px;
+    font-size: 27px;
+    margin-left: 40px;
+}
+.jumbotron img{
+    width: 50px;
+    height: 50px;
+}

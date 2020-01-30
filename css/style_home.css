@@ -1,5 +1,5 @@
 #car{
-    background:url(img/back.png);
+    background:url(../img/back.png);
     background-size: cover;
     /* background-color: #00acee; */
 }

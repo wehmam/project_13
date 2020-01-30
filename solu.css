@@ -1,0 +1,39 @@
+.header{
+    background-image: url(img/gbr1.png);
+    background-repeat: no-repeat;
+    background-size: 1650px;
+    background-position: top;
+}
+.row img{
+    height: 70%;
+    width: 60%;
+    margin-top: 15%;
+}
+.content{
+    margin-top: 30%;
+    color: white;
+}
+.container-fluid{
+    padding-left: 235px;
+}
+.collapse{
+    padding-left: 835px;
+}
+.nav-link{
+    color: white;
+}
+.navbar img{
+    width: 105px;
+    height: 49px;
+    padding-left: 20px;
+}
+.container{
+    margin-top: 10%;
+}
+.row .btn{
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 5%;
+}

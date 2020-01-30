@@ -1,6 +1,7 @@
-.carousel{
+#car{
     background:url(img/back.png);
     background-size: cover;
+    /* background-color: #00acee; */
 }
 body{
     /* background-color: #00acee;     */
@@ -11,5 +12,10 @@ body{
 .card:hover{
     /* background-color:rgba(148, 92, 39, 0.5); */
     -webkit-box-shadow:-1px 9px 40px -12px rgba(148, 92, 39, 0.5);
-    
+}
+.card{
+    border: none;
+}
+h6{
+    color:#fff;
 }
